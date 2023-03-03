@@ -5,6 +5,8 @@
 
 # testing
 /coverage
+serve.sh
+serve_build.sh
 
 # production
 /build
